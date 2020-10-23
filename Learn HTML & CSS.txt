@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+
+open and close tage
+
+</html>
+.........................................
+headtag (container, you can add many things and then save it> like script file css word or title tag
+<html>
+
+<head)
+.............
+..............
+</head>
+</html>
+.........................................
+<body> for parargrh link or image video <wabpage>
+
+<!doctype html>
+<html>
+<body>
+..........
+</body>
+
+
+</html>
